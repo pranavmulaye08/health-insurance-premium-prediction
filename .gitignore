@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+LICENSE
+# main.py
 
 # C extensions
 *.so
